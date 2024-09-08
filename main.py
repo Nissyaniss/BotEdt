@@ -70,4 +70,3 @@ async def edt(className):
 
 client.run(
     '')
-    '')
